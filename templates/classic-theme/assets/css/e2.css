@@ -12150,6 +12150,13 @@ div#card_deck i{
   line-height: 150%;
   text-align: center;
   color: #FFFFFF;
+  
+}
+
+.advisor__invite-btn:hover{
+  color: #2C76DC;
+  background: #F0FAFF;
+  border: 1px solid #2C76DC;
 }
 
 .profile__text--dark{
@@ -12411,6 +12418,11 @@ div#card_deck i{
 
 }
 
+.like-icon--btn{
+  background: none;
+  border: 0;
+}
+
 
 @media (min-width: 600px) and (max-width: 1024px) {
   .category-pill{
@@ -12656,10 +12668,7 @@ div#card_deck i{
     font-size: 0.875rem;
     box-sizing: content-box;
   }
-  .advisor__invite-btn:hover{
-    color: #fff !important;
-  }
-
+ 
   .profile__text--dark{
     font-size: 1rem;
     line-height: 19px;

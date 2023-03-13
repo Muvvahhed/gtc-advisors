@@ -25,8 +25,7 @@
                   <?php }?>
                 </div>
                 <?php if($is_login){ ?>
-                <a href="<?php url("MESSAGE") ?>">
-                <button class="advisor__invite-btn mt-2 mt-lg-3">Invite to Job</button></a>
+                <a href="<?php url("MESSAGE") ?>" class="advisor__invite-btn mt-2 mt-lg-3">Invite to Job</a>
                 <?php } ?>
               </div>
             </div>
@@ -235,7 +234,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -253,7 +252,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -271,7 +270,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -289,7 +288,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -307,7 +306,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -325,7 +324,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -343,7 +342,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -361,7 +360,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -379,7 +378,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -397,7 +396,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -415,7 +414,7 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
@@ -433,86 +432,15 @@
                       <p class="response">Response Rate: Replies within 1 hour</p>
                     </div>
                     <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
+                      <button class="like-icon--btn"><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
                       <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
                     </div>
                   </div>
                 </div>
-                <div class="profile-card d-flex flex-column">
-                  <img src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/activities/Ade-Lateef.png" alt="profile image">
-                  <div class="ps-2 pe-2 ps-lg-0 pe-lg-0">
-                    <div class="d-flex align-items-center profile-card-title mt-2 mb-1 mt-md-3 mb-md-2 ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <a href="<?php _esc($config['site_url']."advisor-profile/mustapha") ?>" class="profile__text--dark profile__text--dark--normal me-2 me-lg-3">Ade Lateef</a>
-                      <img class="mt-lg-1" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/profile/<?php _esc($advisorType == "freelancer"?"freelancer-icon.png":"agency-icon.png") ?>" alt="">
-                    </div>
-                    <div class="profile-card-body ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <p class="expertise mb-2">Tax Audits, Financial Planning, IRS Representation</p>
-                      <p class="bio mb-1 mb-md-2 mb-lg-3 d-flex flex-wrap">I am the perfect guy for the job, contact me blah and blah ..........</p>
-                      <p class="response">Response Rate: Replies within 1 hour</p>
-                    </div>
-                    <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
-                      <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
-                    </div>
-                  </div>
-                </div>
-                <div class="profile-card d-flex flex-column">
-                  <img src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/activities/Ade-Lateef.png" alt="profile image">
-                  <div class="ps-2 pe-2 ps-lg-0 pe-lg-0">
-                    <div class="d-flex align-items-center profile-card-title mt-2 mb-1 mt-md-3 mb-md-2 ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <a href="<?php _esc($config['site_url']."advisor-profile/mustapha") ?>" class="profile__text--dark profile__text--dark--normal me-2 me-lg-3">Ade Lateef</a>
-                      <img class="mt-lg-1" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/profile/<?php _esc($advisorType == "freelancer"?"freelancer-icon.png":"agency-icon.png") ?>" alt="">
-                    </div>
-                    <div class="profile-card-body ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <p class="expertise mb-2">Tax Audits, Financial Planning, IRS Representation</p>
-                      <p class="bio mb-1 mb-md-2 mb-lg-3 d-flex flex-wrap">I am the perfect guy for the job, contact me blah and blah ..........</p>
-                      <p class="response">Response Rate: Replies within 1 hour</p>
-                    </div>
-                    <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
-                      <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
-                    </div>
-                  </div>
-                </div>
-                <div class="profile-card d-flex flex-column">
-                  <img src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/activities/Ade-Lateef.png" alt="profile image">
-                  <div class="ps-2 pe-2 ps-lg-0 pe-lg-0">
-                    <div class="d-flex align-items-center profile-card-title mt-2 mb-1 mt-md-3 mb-md-2 ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <a href="<?php _esc($config['site_url']."advisor-profile/mustapha") ?>" class="profile__text--dark profile__text--dark--normal me-2 me-lg-3">Ade Lateef</a>
-                      <img class="mt-lg-1" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/profile/<?php _esc($advisorType == "freelancer"?"freelancer-icon.png":"agency-icon.png") ?>" alt="">
-                    </div>
-                    <div class="profile-card-body ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <p class="expertise mb-2">Tax Audits, Financial Planning, IRS Representation</p>
-                      <p class="bio mb-1 mb-md-2 mb-lg-3 d-flex flex-wrap">I am the perfect guy for the job, contact me blah and blah ..........</p>
-                      <p class="response">Response Rate: Replies within 1 hour</p>
-                    </div>
-                    <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
-                      <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
-                    </div>
-                  </div>
-                </div>
-                <div class="profile-card d-flex flex-column">
-                  <img src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/activities/Ade-Lateef.png" alt="profile image">
-                  <div class="ps-2 pe-2 ps-lg-0 pe-lg-0">
-                    <div class="d-flex align-items-center profile-card-title mt-2 mb-1 mt-md-3 mb-md-2 ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <a href="<?php _esc($config['site_url']."advisor-profile/mustapha") ?>" class="profile__text--dark profile__text--dark--normal me-2 me-lg-3">Ade Lateef</a>
-                      <img class="mt-lg-1" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/profile/<?php _esc($advisorType == "freelancer"?"freelancer-icon.png":"agency-icon.png") ?>" alt="">
-                    </div>
-                    <div class="profile-card-body ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <p class="expertise mb-2">Tax Audits, Financial Planning, IRS Representation</p>
-                      <p class="bio mb-1 mb-md-2 mb-lg-3 d-flex flex-wrap">I am the perfect guy for the job, contact me blah and blah ..........</p>
-                      <p class="response">Response Rate: Replies within 1 hour</p>
-                    </div>
-                    <div class="profile-card-footer d-flex flex-row justify-content-between align-items-center ps-md-2 pe-md-2 ps-lg-4 pe-lg-4">
-                      <button><i class="fa-heart fa-solid fa-regular like-icon"></i></button>
-                      <img class="g-verified-logo" src="<?php _esc(TEMPLATE_URL); ?>/assets/imgs/Verified Expert Badge Transperent 2.png">
-                    </div>
-                  </div>
-                </div>
+              
                
 
-                </div>
+              </div>
 
               
               </div>
